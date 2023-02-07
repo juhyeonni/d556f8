@@ -1,4 +1,4 @@
-### Hi there 👋
+<figure><embed src="https://wakatime.com/share/@adedaa9e-0289-4145-ac9b-3ca20a1077a1/adadc99b-c67a-43e9-a0a5-bea445047329.svg"></embed></figure>
 
 <!--
 **d556f8/d556f8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure><embed src="https://wakatime.com/share/@adedaa9e-0289-4145-ac9b-3ca20a1077a1/adadc99b-c67a-43e9-a0a5-bea445047329.svg"></embed></figure>
