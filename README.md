@@ -1,11 +1,16 @@
 <div align="center">
 
 ![avatar](https://avatars.githubusercontent.com/u/64972038?v=4)
-
+  
+![](https://github-readme-stats.vercel.app/api?username=d556f8&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d556f8&hide=scss,css&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
+  
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d556f8&exclude_repo=Thlee,d556f8.github.io,d556f8-devlog)](https://github.com/anuraghazra/github-readme-stats,)
 
 ![Juhyeon Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d556f8&show_icons=true&theme=radical)
-
+ -->
+  
 <h3 align="left">Most:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
