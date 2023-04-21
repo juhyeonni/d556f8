@@ -10,7 +10,7 @@
 <h3 align="left">Most:</h3>
 <p align="left">
   
-  [![Most Skilled](https://skillicons.dev/icons?i=nodejs,typescript,javascript,python)](https://skillicons.dev)
+  [![Most Skilled](https://skillicons.dev/icons?i=nodejs,typescript,javascript)](https://skillicons.dev)
 
 </p>
 
